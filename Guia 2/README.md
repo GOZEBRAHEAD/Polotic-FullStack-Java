@@ -18,12 +18,11 @@
 1) Un gerente de una empresa prestadora de servicios de internet necesita un programa que permita realizar el cálculo del monto a pagar de la factura de consumo de internet de 5
   clientes de una empresa.
   Para ello, el algoritmo debe solicitar por teclado dos datos: DNI del cliente y el tipo de servicio.
+  El programa debe poder calcular el monto a pagar e informar por pantalla el DNI del mismo junto con el monto a pagar y el número de servicio con el que cuenta.<br/>
   Los tipos de servicio son 3:
     - Internet 30 megas (cuyo valor es de $890 – 10% de descuento).
     - Internet 50 megas (Cuyo valor es de $1050 – 5% de descuento).
     - Internet 100 megas (Cuyo valor fijo es de $1600).
-  
-  El programa debe poder calcular el monto a pagar e informar por pantalla el DNI del mismo junto con el monto a pagar y el número de servicio con el que cuenta.
     
 2) Un niño de primaria necesita realizar 10 cálculos diferentes entre dos números.
   Para esto necesita un programa que, para cada cálculo, permita el ingreso de los dos números por separado al igual que la operación que desea hacer entre ambos.
