@@ -3,8 +3,8 @@ Este repositorio tiene todos los ejercicios de las guias de actividades que fui 
 
 Temario del curso:
 <ul>
-  <li>Java básico (variables, tipos de datos, condicionales, bucles, etc).</li>
-  <li>Java desktop (toda la GUI con Swing).</li>
-  <li>Java web (HTML5, CSS3, JavaScript, JSP, etc.).</li>
-  <li>Git y GitHub.</li>
+  <li>Módulo 1: "Introducción a la programación (Java) y las bases de datos (MySQL)".</li>
+  <li>Módulo 2: "Programación Orientada a Objetos y Java Standard Edition (SE)".</li>
+  <li>Módulo 3: "Herramientas gráficas (comienzo con HTML5, CSS3 y JavaScript)".</li>
+  <li>Módulo 4: "Java Web (JSP, Servlets, Sockets, Streams, Patrones de Diseño) y versionado de aplicaciones (GIT)".</li>
 </ul>
