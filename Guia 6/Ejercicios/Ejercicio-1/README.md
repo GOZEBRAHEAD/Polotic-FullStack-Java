@@ -8,7 +8,7 @@
 
 <h2>Diagrama Entidad-Relacion (DER):</h2>
 
-![image](https://user-images.githubusercontent.com/54969894/117550055-709b6a00-b014-11eb-90a4-6298182d7048.png)
+![image](https://user-images.githubusercontent.com/54969894/117550132-ec95b200-b014-11eb-9620-25ecc85a8829.png)
 
 <hr />
 
