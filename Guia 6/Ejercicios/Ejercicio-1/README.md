@@ -1,11 +1,13 @@
 <hr />
 
 <h2>Database Definition Language (DDL):</h2>
+
 ![image](https://user-images.githubusercontent.com/54969894/117549713-4b0d6100-b012-11eb-9eb3-814cb9468d2f.png)
 
 <hr />
 
 <h2>Diagrama Entidad-Relacion (DER):</h2>
+
 ![image](https://user-images.githubusercontent.com/54969894/117550055-709b6a00-b014-11eb-90a4-6298182d7048.png)
 
 <hr />
