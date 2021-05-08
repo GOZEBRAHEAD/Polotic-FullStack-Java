@@ -1,7 +1,15 @@
-<hr>
+<hr />
 
-![image](https://user-images.githubusercontent.com/54969894/116737444-9e0a6700-a9c7-11eb-8820-c7db1f81a268.png)
+<h2>Database Definition Language (DDL):</h2>
+![image](https://user-images.githubusercontent.com/54969894/117549713-4b0d6100-b012-11eb-9eb3-814cb9468d2f.png)
 
-![image](https://user-images.githubusercontent.com/54969894/116737555-c003e980-a9c7-11eb-94f8-9d48002081fd.png)
+<hr />
 
-![image](https://user-images.githubusercontent.com/54969894/116737586-c8f4bb00-a9c7-11eb-804a-6fde13ebc117.png)
+<h2>Diagrama Entidad-Relacion (DER):</h2>
+![image](https://user-images.githubusercontent.com/54969894/117550055-709b6a00-b014-11eb-90a4-6298182d7048.png)
+
+<hr />
+
+![image](https://user-images.githubusercontent.com/54969894/117549839-033b0980-b013-11eb-9960-94fbbac16aa7.png)
+
+![image](https://user-images.githubusercontent.com/54969894/117549846-1057f880-b013-11eb-84b0-7af3c24ab972.png)
