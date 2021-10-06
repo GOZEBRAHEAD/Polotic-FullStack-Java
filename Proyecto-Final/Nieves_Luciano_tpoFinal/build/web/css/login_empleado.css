@@ -1,0 +1,103 @@
+body {
+    height: 100vh;
+    background-color: #06486D;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: white;
+}
+
+.card {
+    height: 70%;
+    width: 35%;
+    
+    background: linear-gradient(55deg, #075783 70%, #0C91DA);
+    border-radius: 0.7rem;
+    
+    color: white;
+    box-shadow: 0.5rem 0.5rem 2rem 0.1rem rgba(0, 0, 0, 0.6);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;    
+}
+
+.card h1 {
+    color: white;
+    border-bottom: 2px solid #6EC6F7;
+}
+
+.card form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;  
+}
+
+.inputs {
+    margin-top: -2rem;
+}
+
+.inputs p {
+    font-size: 1.25rem;
+    text-align: right;
+}
+
+.input__field {
+    height: 1.5rem;
+    margin: 1rem;
+    border: none;
+    border-radius: 0.2rem;
+    background-color: #e6e6e6;
+    padding: 0 0.5rem;
+}
+
+.input__field:focus {
+    outline: none;
+}
+
+.buttons {
+    width: 100%;
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}
+
+.btn {
+    text-decoration: none;
+    padding: 1rem 2rem;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn__login {
+    background-color: #086599;
+}
+
+.btn__login:hover {
+    background-color: #0C91DA;
+}
+
+.btn__back {
+    text-decoration: none;
+    border: 2px solid #086599;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn__back:hover {
+    border: 2px solid #0C91DA;
+}

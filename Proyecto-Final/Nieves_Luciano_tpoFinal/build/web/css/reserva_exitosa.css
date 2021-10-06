@@ -1,0 +1,46 @@
+body {
+    height: 100vh;
+    background-color: #06486D;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body h1 {
+    font-size: 2.5rem;
+    color: white;
+}
+
+.buttons {
+    width: 100%;
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}
+
+.btn {
+    text-decoration: none;
+    padding: 1rem 2rem;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn__back {
+    text-decoration: none;
+    border: 2px solid #086599;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn__back:hover {
+    border: 2px solid #0C91DA;
+}
