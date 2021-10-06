@@ -6,9 +6,23 @@
 
 ## Tabla de contenidos
 
+- [Tecnologias](#tecnologias)
 - [Problema](#problema)
 - [Resolucion](#resolucion)
 - [Imagenes](#imagenes)
+
+---
+---
+
+## Tecnologias
+
+* HTML5
+* CSS3
+* Java
+* JSP
+* Servlets
+* Java Persistence API
+* MySQL
 
 ---
 ---
